@@ -32,7 +32,10 @@ The goal of this portfolio is to present my skills in:
 ---
 
 ## 📸 Preview
+https://github.com/Chams3832/portfolio/blob/main/screenshoot%20Portfolio%201.png
 https://github.com/Chams3832/portfolio/blob/main/screenshoot%20Portfolio%202.png
+https://github.com/Chams3832/portfolio/blob/main/screenshoot%20Portfolio%203.png
+
 
 ---
 
